@@ -1,0 +1,27 @@
+.card-item-img {
+
+    width: 400px;
+}
+
+.item-list {
+    display: flex;
+    justify-content: space-around; 
+    
+}
+
+.card-info-container {
+
+    text-decoration: none;
+    background: transparent;
+    text-align: center;
+    margin: 0 11px;
+}
+
+.find-out-more-span{
+
+    text-decoration: none;
+    background: transparent;
+    text-align: center;
+    align-items: center;
+
+}
